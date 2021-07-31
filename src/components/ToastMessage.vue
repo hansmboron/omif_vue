@@ -26,7 +26,11 @@
     </div>
     <div class="toast-body">
       <router-link to="revista"
-        ><img src="img/sub_pro.jpeg" height="320" width="320"
+        ><img
+          src="img/sub_pro.jpeg"
+          alt="Submissão Prorrogada Revista Omif"
+          height="320"
+          width="320"
       /></router-link>
     </div>
   </div>

@@ -188,10 +188,7 @@
                   >
                 </li>
                 <li>
-                  <router-link
-                    to="/artes"
-                    class="dropdown-item fw-bold"
-                    href="artes_visuais.html"
+                  <router-link to="/artes" class="dropdown-item fw-bold"
                     >Resualtado Artes Visuais</router-link
                   >
                 </li>
