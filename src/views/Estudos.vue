@@ -25,6 +25,12 @@
               >Prova 1ª Fase OMIF 2020</a
             >
           </p>
+          <div class="ratio ratio-16x9 mb-2">
+            <iframe
+              class="border shadow-sm"
+              src="pdf/Prova 1ª Fase OMIF 2020.pdf"
+            ></iframe>
+          </div>
           <p>
             <a
               :href="`${publicPath}pdf/Gabarito - Prova 1ª Fase OMIF 2020.pdf`"
@@ -141,30 +147,22 @@
             >
           </p>
           <br />
-          <h3 class="text-success">Simulado da OMIF 2019:</h3>
-          <p>
-            <a href="pdf/SIMULADO OMIF 2019.pdf" target="_blank" rel="noopener"
-              >Simulado 1ª Fase OMIF 2019</a
-            >
-          </p>
-          <p>
-            <a
-              href="pdf/RESOLUÇÃO SIMULADO OMIF 2019.pdf"
-              target="_blank"
-              rel="noopener"
-              >Resolução Simulado 1ª Fase OMIF 2019</a
-            >
-          </p>
-          <br />
+
           <h3 class="text-success">Provas da OMIF 2019:</h3>
           <p>
             <a
-              href="pdf/Prova 1ª Fase OMIF 2020.pdf"
+              href="pdf/prova_omif_2019_1fase.pdf"
               target="_blank"
               rel="noopener"
               >Prova 1ª Fase OMIF 2019</a
             >
           </p>
+          <div class="ratio ratio-16x9 mb-2">
+            <iframe
+              class="border shadow-sm"
+              src="pdf/prova_omif_2019_1fase.pdf"
+            ></iframe>
+          </div>
           <p>
             <a href="pdf/OMIF-2019-Gabarito.pdf" target="_blank" rel="noopener"
               >Gabarito Prova 1ª Fase OMIF 2019</a
@@ -186,12 +184,85 @@
               >Prova 2ª Fase OMIF 2019</a
             >
           </p>
+          <div class="ratio ratio-16x9 mb-2">
+            <iframe
+              class="border shadow-sm"
+              src="pdf/Caderno de Questões - 2ª Fase - OMIF - 2019 - versão Final.pdf"
+            ></iframe>
+          </div>
           <p>
             <a
               href="pdf/Resolução - 2ª Fase - OMIF - 2019.pdf"
               target="_blank"
               rel="noopener"
               >Resolução Prova 2ª Fase OMIF 2019</a
+            >
+          </p>
+          <br />
+          <h3 class="text-success">Simulado da OMIF 2019:</h3>
+          <p>
+            <a href="pdf/SIMULADO OMIF 2019.pdf" target="_blank" rel="noopener"
+              >Simulado 1ª Fase OMIF 2019</a
+            >
+          </p>
+          <p>
+            <a
+              href="pdf/RESOLUÇÃO SIMULADO OMIF 2019.pdf"
+              target="_blank"
+              rel="noopener"
+              >Resolução Simulado 1ª Fase OMIF 2019</a
+            >
+          </p>
+          <br />
+
+          <h3 class="text-success">Provas da OMIF 2018:</h3>
+          <p>
+            <a href="pdf/primeira_fase_2018.pdf" target="_blank" rel="noopener"
+              >Prova 1ª Fase OMIF 2018</a
+            >
+          </p>
+          <div class="ratio ratio-16x9 mb-2">
+            <iframe
+              class="border shadow-sm"
+              src="pdf/primeira_fase_2018.pdf"
+            ></iframe>
+          </div>
+          <p>
+            <a
+              href="pdf/gabarito_primeira_fase_2018.pdf"
+              target="_blank"
+              rel="noopener"
+              >Gabarito Prova 1ª Fase OMIF 2018</a
+            >
+          </p>
+          <p>
+            <a
+              href="pdf/Resolução_2018_OMIF_1_Fase.pdf"
+              target="_blank"
+              rel="noopener"
+              >Resolução Prova 1ª Fase OMIF 2018</a
+            >
+          </p>
+          <p>
+            <a
+              href="pdf/Caderno de Questões - 2ª Fase - OMIF - 2018.pdf"
+              target="_blank"
+              rel="noopener"
+              >Prova 2ª Fase OMIF 2018</a
+            >
+          </p>
+          <div class="ratio ratio-16x9 mb-2">
+            <iframe
+              class="border shadow-sm"
+              src="pdf/Caderno de Questões - 2ª Fase - OMIF - 2018.pdf"
+            ></iframe>
+          </div>
+          <p>
+            <a
+              href="pdf/Resolução - 2ª Fase - OMIF - 2018.pdf"
+              target="_blank"
+              rel="noopener"
+              >Resolução Prova 2ª Fase OMIF 2018</a
             >
           </p>
           <br />
@@ -218,45 +289,6 @@
               target="_blank"
               rel="noopener"
               >Resolução Simulado 1ª Fase OMIF 2018</a
-            >
-          </p>
-          <br />
-          <h3 class="text-success">Provas da OMIF 2018:</h3>
-          <p>
-            <a href="pdf/primeira_fase_2018.pdf" target="_blank" rel="noopener"
-              >Prova 1ª Fase OMIF 2018</a
-            >
-          </p>
-          <p>
-            <a
-              href="pdf/gabarito_primeira_fase_2018.pdf"
-              target="_blank"
-              rel="noopener"
-              >Gabarito Prova 1ª Fase OMIF 2018</a
-            >
-          </p>
-          <p>
-            <a
-              href="pdf/Resolução_2018_OMIF_1_Fase.pdf"
-              target="_blank"
-              rel="noopener"
-              >Resolução Prova 1ª Fase OMIF 2018</a
-            >
-          </p>
-          <p>
-            <a
-              href="pdf/Caderno de Questões - 2ª Fase - OMIF - 2018.pdf"
-              target="_blank"
-              rel="noopener"
-              >Prova 2ª Fase OMIF 2018</a
-            >
-          </p>
-          <p>
-            <a
-              href="pdf/Resolução - 2ª Fase - OMIF - 2018.pdf"
-              target="_blank"
-              rel="noopener"
-              >Resolução Prova 2ª Fase OMIF 2018</a
             >
           </p>
         </div>

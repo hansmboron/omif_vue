@@ -204,15 +204,15 @@
                   >)
                 </li>
               </ul>
-              <iframe
-                width="326"
-                height="190"
-                src="https://www.youtube.com/embed/QersCUYa6ss"
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-              ></iframe>
+              <div class="ratio ratio-16x9 mb-2">
+                <iframe
+                  class="border shadow-sm"
+                  src="https://www.youtube.com/embed/QersCUYa6ss"
+                  title="YouTube video player"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
+                ></iframe>
+              </div>
             </div>
           </div>
         </section>
@@ -241,7 +241,7 @@ export default {
         return new bootstrap.Toast(toastEl, { autohide: false });
       });
       toastList.forEach((toast) => toast.show());
-    }, 2000);
+    }, 1000);
   },
 };
 </script>

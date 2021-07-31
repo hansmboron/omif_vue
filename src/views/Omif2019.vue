@@ -16,18 +16,15 @@
         </div>
         <div class="card-body mb-3 mx-xl-5">
           <h1 class="card-title text-center mb-5">2ª Fase OMIF 2019</h1>
-          <figure class="figure w-100 text-center">
+          <div class="ratio ratio-16x9 mb-2">
             <iframe
-              class="figure-img img-fluid"
-              width="560"
-              height="315"
+              class="border shadow-sm"
               src="https://www.youtube.com/embed/K7dfxDaLgKM"
               title="YouTube video player"
               allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture"
               allowfullscreen
-            >
-            </iframe>
-          </figure>
+            ></iframe>
+          </div>
 
           <h3 class="text-success">OMIF em números:</h3>
           <p>

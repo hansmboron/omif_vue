@@ -13,6 +13,23 @@
           </nav>
         </div>
         <div class="card-body mb-3 mx-xl-5">
+          <h2 class="card-title text-center mb-5">Editais 2021</h2>
+          <p>
+            <a
+              href="pdf/Edital_Oficinas_2021.pdf"
+              target="_blank"
+              rel="noopener"
+              >Edital para a seleção de atividades da segunda fase - OMIF 2021
+              Online</a
+            >
+          </p>
+          <div class="ratio ratio-16x9 mb-2">
+            <iframe
+              class="border shadow-sm"
+              src="pdf/Edital_Oficinas_2021.pdf"
+            ></iframe>
+          </div>
+          <br />
           <h2 class="card-title text-center mb-5">Editais 2020</h2>
           <p>
             Edital de captação de apoio à realização da III OMIF - Suspenso

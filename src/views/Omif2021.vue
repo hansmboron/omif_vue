@@ -19,13 +19,11 @@
             Área de Imprensa - OMIF 2021:
           </h1>
           <div class="w-100 text-center">
-            <div class="w-100 text-center mb-3">
+            <div class="ratio ratio-16x9 mb-2">
               <iframe
-                width="326"
-                height="190"
+                class="border shadow-sm"
                 src="https://www.youtube.com/embed/QersCUYa6ss"
                 title="YouTube video player"
-                frameborder="0"
                 allow="accelerometer; clipboard-write; encrypted-media; picture-in-picture"
                 allowfullscreen
               ></iframe>
