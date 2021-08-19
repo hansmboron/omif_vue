@@ -19,11 +19,16 @@
           data-bs-slide-to="1"
           data-bs-target="#carouselExampleCaptions"
         ></button>
-        <!-- <button aria-label="Slide 3" title="slide 3" data-bs-slide-to="2" data-bs-target="#carouselExampleCaptions"
-                        type="button"></button> -->
+        <button
+          aria-label="Slide 3"
+          title="slide 3"
+          data-bs-slide-to="2"
+          data-bs-target="#carouselExampleCaptions"
+          type="button"
+        ></button>
       </div>
       <div class="carousel-inner">
-        <div class="carousel-item active" data-bs-interval="9000">
+        <div class="carousel-item active" data-bs-interval="7000">
           <img
             class="d-block w-100 bg-dark"
             src="img/OMIF_2021.gif"
@@ -39,7 +44,7 @@
                                     target="_blank"><strong>YouTube</strong></a>)</p> -->
           </div>
         </div>
-        <div class="carousel-item" data-bs-interval="9000">
+        <div class="carousel-item" data-bs-interval="7000">
           <router-link to="revista"
             ><img
               class="d-block w-100 bg-dark"
@@ -47,6 +52,24 @@
               alt="Revista OMIF submissão prorrogada"
               height="350"
           /></router-link>
+        </div>
+        <div
+          class="carousel-item text-center w-100 bg-dark"
+          data-bs-interval="7000"
+        >
+          <a href="https://www.youtube.com/watch?v=MQUfHXDp12s" target="_blank"
+            ><img
+              class="mx-auto d-block"
+              src="img/live_30_08.jpeg"
+              alt="Live OMIF 2021 - Como será a OMIF em 2021?"
+              height="350"
+          /></a>
+          <div class="carousel-caption">
+            <h5 class="fw-bolder" style="text-shadow: 2px 2px #0f701f">
+              Dica: Clique em 'Defenir lembrete' para receber notificação quando
+              a live começar!
+            </h5>
+          </div>
         </div>
         <!-- <div class="carousel-item w-100">
                         <img alt="..." height="350" class="mx-auto d-block"

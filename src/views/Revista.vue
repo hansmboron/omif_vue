@@ -291,7 +291,7 @@
                   target="_blank"
                   >o formulário</a
                 >.<br />O prazo para submissão encerra às 23h59 do
-                <strong>dia 19 de agosto de 2021</strong>.<br />Link do
+                <strong>dia 19 de setembro de 2021</strong>.<br />Link do
                 formulário:
                 <a
                   class="btn btn-success rounded-pill shadow mb-3 px-3"

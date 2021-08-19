@@ -14,7 +14,9 @@
         class="rounded bg-light me-2"
         alt="..."
       />
-      <strong class="me-auto text-dark">Revista OMIF</strong>
+      <strong class="me-auto text-dark"
+        >Live 30/08 19h(Definir Lembrete)</strong
+      >
       <!--        <small class="text-muted">11 mins ago</small>-->
       <button
         style="color: white"
@@ -25,13 +27,13 @@
       ></button>
     </div>
     <div class="toast-body">
-      <router-link to="revista"
+      <a href="https://www.youtube.com/watch?v=MQUfHXDp12s" target="_blank"
         ><img
-          src="img/sub_pro.jpeg"
-          alt="Submissão Prorrogada Revista Omif"
+          src="img/live_30_08.jpeg"
+          alt="Live OMIF 2021 - Como será a OMIF em 2021?"
           height="320"
           width="320"
-      /></router-link>
+      /></a>
     </div>
   </div>
 </template>

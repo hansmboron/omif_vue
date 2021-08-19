@@ -49,6 +49,13 @@ h4 {
   text-align: justify;
 }
 
+.cor-secundaria {
+  color: var(--secondary);
+}
+.cor-primaria {
+  color: var(--primary);
+}
+
 /*para não ficar por baixo da navbar na navegação dentro da pagina*/
 .anchor {
   padding-top: 60px;
