@@ -1,3 +1,4 @@
-// module.exports = {
-//     // publicPath: 'https://hansmboron.github.io/omif_vue/'
-// }
+module.exports = {
+    publicPath: 'https://hansmboron.github.io/omif_vue/'
+    // publicPath: '/teste/'
+}
