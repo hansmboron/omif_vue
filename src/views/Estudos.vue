@@ -16,6 +16,29 @@
         </div>
         <div class="card-body mb-3 mx-xl-5">
           <h1 class="card-title text-center mb-5">Materiais de Estudos</h1>
+
+          <h3 class="text-success">Simulado da OMIF 2021:</h3>
+          <p class="fw-bold">
+            O simulado da OMIF 2021 será uma série de desafios semanais que
+            versarão sobre os conteúdos da prova da 1ª Fase:
+          </p>
+          <p>
+            <a
+              href="pdf/Desafio_01_2021.pdf"
+              download="pdf/Desafio_01_2021.pdf"
+              target="_blank"
+              rel="noopener"
+              >Desafio 1
+            </a>
+          </p>
+          <div class="ratio ratio-16x9 mb-2">
+            <iframe
+              class="border shadow-sm"
+              src="pdf/Desafio_01_2021.pdf"
+            ></iframe>
+          </div>
+          <br />
+          <br />
           <h3 class="text-success">Prova da OMIF 2020:</h3>
           <p>
             <a
