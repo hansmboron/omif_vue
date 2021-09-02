@@ -53,34 +53,22 @@
               height="350"
           /></router-link>
         </div>
-        <div
-          class="carousel-item text-center w-100 bg-dark"
-          data-bs-interval="7000"
-        >
-          <a href="https://www.youtube.com/watch?v=MQUfHXDp12s" target="_blank"
-            ><img
-              class="mx-auto d-block"
-              src="img/live_30_08.jpeg"
-              alt="Live OMIF 2021 - Como será a OMIF em 2021?"
-              height="350"
-          /></a>
+        <div class="carousel-item" data-bs-interval="7000">
+          <img
+            class="d-block w-100 bg-dark"
+            style="object-fit: cover"
+            src="img/foto1.webp"
+            alt="Materiais de Estudo"
+            height="350"
+          />
           <div class="carousel-caption">
-            <h5 class="fw-bolder" style="text-shadow: 2px 2px #0f701f">
-              Dica: Clique em 'Defenir lembrete' para receber notificação quando
-              a live começar!
-            </h5>
+            <h4 style="text-shadow: 2px 2px #000">
+              Utilize nossos
+              <router-link to="estudo">Materiais de Estudo</router-link> para
+              fazer simulados e desafios para se preparar para a OMIF 2021
+            </h4>
           </div>
         </div>
-        <!-- <div class="carousel-item w-100">
-                        <img alt="..." height="350" class="mx-auto d-block"
-                            src="assets/img/banners/live_lancamento.png">
-                        <div class="carousel-caption">
-                            <h4 class="text-light"
-                                style="font-family: 'Nunito', sans-serif; text-shadow: 1px 1px #000;"><a
-                                    style="color: white;" href="https://youtu.be/QersCUYa6ss" target="_blank">Acessar
-                                    Link</a></h4>
-                        </div>
-                    </div> -->
 
         <button
           class="carousel-control-prev"

@@ -23,21 +23,40 @@
             versarão sobre os conteúdos da prova da 1ª Fase:
           </p>
           <p>
+            <a href="pdf/Desafio_01_2021.pdf" target="_blank" rel="noopener"
+              >Desafio 1
+            </a>
+          </p>
+          <!-- <div class="ratio ratio-16x9 mb-2">
+            <iframe
+              class="border shadow-sm"
+              src="pdf/Desafio_01_2021.pdf"
+            ></iframe>
+          </div> -->
+          <p>
             <a
-              href="pdf/Desafio_01_2021.pdf"
-              download="pdf/Desafio_01_2021.pdf"
+              href="pdf/Desafio_01_2021_solucao.pdf"
               target="_blank"
               rel="noopener"
-              >Desafio 1
+              >Desafio 01 - solução</a
+            >
+          </p>
+          <br />
+          <p>
+            <a
+              href="pdf/Desafio_02_2021.pdf"
+              download="pdf/Desafio_02_2021.pdf"
+              target="_blank"
+              rel="noopener"
+              >Desafio 2
             </a>
           </p>
           <div class="ratio ratio-16x9 mb-2">
             <iframe
               class="border shadow-sm"
-              src="pdf/Desafio_01_2021.pdf"
+              src="pdf/Desafio_02_2021.pdf"
             ></iframe>
           </div>
-          <br />
           <br />
           <h3 class="text-success">Prova da OMIF 2020:</h3>
           <p>
