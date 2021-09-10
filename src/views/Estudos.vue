@@ -57,6 +57,15 @@
               src="pdf/Desafio_02_2021.pdf"
             ></iframe>
           </div>
+          <p>
+            <a
+              href="pdf/Desafio_02_2021_solucao.pdf"
+              target="_blank"
+              rel="noopener"
+              >Desafio 02 - solução</a
+            >
+          </p>
+          <br />
           <br />
           <h3 class="text-success">Prova da OMIF 2020:</h3>
           <p>
@@ -199,12 +208,12 @@
               >Prova 1ª Fase OMIF 2019</a
             >
           </p>
-          <div class="ratio ratio-16x9 mb-2">
+          <!-- <div class="ratio ratio-16x9 mb-2">
             <iframe
               class="border shadow-sm"
               src="pdf/prova_omif_2019_1fase.pdf"
             ></iframe>
-          </div>
+          </div> -->
           <p>
             <a href="pdf/OMIF-2019-Gabarito.pdf" target="_blank" rel="noopener"
               >Gabarito Prova 1ª Fase OMIF 2019</a
@@ -226,12 +235,12 @@
               >Prova 2ª Fase OMIF 2019</a
             >
           </p>
-          <div class="ratio ratio-16x9 mb-2">
+          <!-- <div class="ratio ratio-16x9 mb-2">
             <iframe
               class="border shadow-sm"
               src="pdf/Caderno de Questões - 2ª Fase - OMIF - 2019 - versão Final.pdf"
             ></iframe>
-          </div>
+          </div> -->
           <p>
             <a
               href="pdf/Resolução - 2ª Fase - OMIF - 2019.pdf"
@@ -263,12 +272,12 @@
               >Prova 1ª Fase OMIF 2018</a
             >
           </p>
-          <div class="ratio ratio-16x9 mb-2">
+          <!-- <div class="ratio ratio-16x9 mb-2">
             <iframe
               class="border shadow-sm"
               src="pdf/primeira_fase_2018.pdf"
             ></iframe>
-          </div>
+          </div> -->
           <p>
             <a
               href="pdf/gabarito_primeira_fase_2018.pdf"
@@ -293,12 +302,12 @@
               >Prova 2ª Fase OMIF 2018</a
             >
           </p>
-          <div class="ratio ratio-16x9 mb-2">
+          <!-- <div class="ratio ratio-16x9 mb-2">
             <iframe
               class="border shadow-sm"
               src="pdf/Caderno de Questões - 2ª Fase - OMIF - 2018.pdf"
             ></iframe>
-          </div>
+          </div> -->
           <p>
             <a
               href="pdf/Resolução - 2ª Fase - OMIF - 2018.pdf"
@@ -334,6 +343,7 @@
             >
           </p>
         </div>
+        <Games></Games>
       </section>
     </div>
   </main>
@@ -341,12 +351,16 @@
 
 
 <script>
+import Games from "../components/Games.vue";
 export default {
   name: "Estudos",
   data() {
     return {
       publicPath: process.env.BASE_URL,
     };
+  },
+  components: {
+    Games,
   },
 };
 </script>
