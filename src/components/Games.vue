@@ -39,16 +39,6 @@
       ></iframe>
     </div>
   </section>
-  <h5 class="ms-4 mt-2">Sudoku</h5>
-  <section class="text-center mx-md-4 m-1">
-    <div class="ratio ratio-16x9">
-      <iframe
-        src="https://www.crazygames.com.br/embed/sudoku"
-        style="width: 100%; height: 100%"
-        frameborder="0"
-      ></iframe>
-    </div>
-  </section>
   <h5 class="ms-4 mt-2">Xor</h5>
   <section class="text-center mx-md-4 m-1">
     <div class="ratio ratio-16x9">

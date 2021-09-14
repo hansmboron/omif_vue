@@ -41,28 +41,42 @@
               >Desafio 01 - solução</a
             >
           </p>
-          <br />
           <p>
-            <a
-              href="pdf/Desafio_02_2021.pdf"
-              download="pdf/Desafio_02_2021.pdf"
-              target="_blank"
-              rel="noopener"
+            <a href="pdf/Desafio_02_2021.pdf" target="_blank" rel="noopener"
               >Desafio 2
             </a>
           </p>
-          <div class="ratio ratio-16x9 mb-2">
-            <iframe
-              class="border shadow-sm"
-              src="pdf/Desafio_02_2021.pdf"
-            ></iframe>
-          </div>
           <p>
             <a
               href="pdf/Desafio_02_2021_solucao.pdf"
               target="_blank"
               rel="noopener"
               >Desafio 02 - solução</a
+            >
+          </p>
+          <p>
+            <small
+              ><a
+                href="pdf/Desafio_03_2021.pdf"
+                download="pdf/Desafio_03_2021.pdf"
+                target="_blank"
+                rel="noopener"
+                >Desafio 3
+              </a></small
+            >
+          </p>
+          <div class="ratio ratio-16x9 mb-2">
+            <iframe
+              class="border shadow-sm"
+              src="pdf/Desafio_03_2021.pdf"
+            ></iframe>
+          </div>
+          <p>
+            <a
+              href="pdf/Desafio_03_2021_solucao.pdf"
+              target="_blank"
+              rel="noopener"
+              >Desafio 03 - solução</a
             >
           </p>
           <br />
