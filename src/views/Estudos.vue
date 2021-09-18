@@ -55,28 +55,58 @@
             >
           </p>
           <p>
-            <small
-              ><a
-                href="pdf/Desafio_03_2021.pdf"
-                download="pdf/Desafio_03_2021.pdf"
-                target="_blank"
-                rel="noopener"
-                >Desafio 3
-              </a></small
-            >
+            <a href="pdf/Desafio_03_2021.pdf" target="_blank" rel="noopener"
+              >Desafio 3
+            </a>
           </p>
-          <div class="ratio ratio-16x9 mb-2">
-            <iframe
-              class="border shadow-sm"
-              src="pdf/Desafio_03_2021.pdf"
-            ></iframe>
-          </div>
           <p>
             <a
               href="pdf/Desafio_03_2021_solucao.pdf"
               target="_blank"
               rel="noopener"
               >Desafio 03 - solução</a
+            >
+          </p>
+          <p>
+            <a
+              href="pdf/Desafio_04_2021.pdf"
+              download="pdf/Desafio_04_2021.pdf"
+              target="_blank"
+              rel="noopener"
+              >Desafio 4
+            </a>
+          </p>
+          <p>
+            <a
+              href="pdf/Desafio_04_2021_solucao.pdf"
+              target="_blank"
+              rel="noopener"
+              >Desafio 04 - solução</a
+            >
+          </p>
+          <p>
+            <small
+              ><a
+                href="pdf/Desafio_05_2021.pdf"
+                download="pdf/Desafio_05_2021.pdf"
+                target="_blank"
+                rel="noopener"
+                >Desafio 5
+              </a></small
+            >
+          </p>
+          <div class="ratio ratio-16x9 mb-2">
+            <iframe
+              class="border shadow-sm"
+              src="pdf/Desafio_05_2021.pdf"
+            ></iframe>
+          </div>
+          <p>
+            <a
+              href="pdf/Desafio_05_2021_solucao.pdf"
+              target="_blank"
+              rel="noopener"
+              >Desafio 05 - solução</a
             >
           </p>
           <br />
