@@ -17,6 +17,40 @@
         <div class="card-body mb-3 mx-xl-5">
           <h1 class="card-title text-center mb-5">Materiais de Estudos</h1>
 
+          <h3 class="text-success">Prova da OMIF 2021:</h3>
+          <p>
+            <a
+              href="pdf/Prova_OMIF_2021.pdf"
+              download="pdf/Prova_OMIF_2021.pdf"
+              target="_blank"
+              rel="noopener"
+              >Prova 1ª Fase OMIF 2021</a
+            >
+          </p>
+          <div class="ratio ratio-16x9 mb-2">
+            <iframe
+              class="border shadow-sm"
+              src="pdf/Prova_OMIF_2021.pdf"
+            ></iframe>
+          </div>
+          <p>
+            <a
+              href="pdf/Prova_OMIF_2021_AMPLIADA.pdf"
+              target="_blank"
+              rel="noopener"
+              >Prova 1ª Fase OMIF 2021 (Ampliada + Figs)
+            </a>
+          </p>
+          <p>
+            <a
+              href="pdf/Prova_-_1_Fase_-_OMIF_2021_-_versão Final_-_Com_as_Respostas.pdf"
+              target="_blank"
+              rel="noopener"
+              >Resolução Prova 1ª Fase OMIF 2021
+            </a>
+          </p>
+          <br />
+
           <h3 class="text-success">Simulado da OMIF 2021:</h3>
           <p class="fw-bold">
             O simulado da OMIF 2021 será uma série de desafios semanais que
@@ -27,12 +61,6 @@
               >Desafio 1
             </a>
           </p>
-          <!-- <div class="ratio ratio-16x9 mb-2">
-            <iframe
-              class="border shadow-sm"
-              src="pdf/Desafio_01_2021.pdf"
-            ></iframe>
-          </div> -->
           <p>
             <a
               href="pdf/Desafio_01_2021_solucao.pdf"
@@ -85,22 +113,10 @@
             >
           </p>
           <p>
-            <small
-              ><a
-                href="pdf/Desafio_05_2021.pdf"
-                download="pdf/Desafio_05_2021.pdf"
-                target="_blank"
-                rel="noopener"
-                >Desafio 5
-              </a></small
-            >
+            <a href="pdf/Desafio_05_2021.pdf" target="_blank" rel="noopener"
+              >Desafio 5
+            </a>
           </p>
-          <div class="ratio ratio-16x9 mb-2">
-            <iframe
-              class="border shadow-sm"
-              src="pdf/Desafio_05_2021.pdf"
-            ></iframe>
-          </div>
           <p>
             <a
               href="pdf/Desafio_05_2021_solucao.pdf"
