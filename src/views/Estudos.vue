@@ -46,8 +46,78 @@
               href="pdf/Prova_-_1_Fase_-_OMIF_2021_-_versão Final_-_Com_as_Respostas.pdf"
               target="_blank"
               rel="noopener"
-              >Resolução Prova 1ª Fase OMIF 2021
+              >Gabarito Prova 1ª Fase OMIF 2021
             </a>
+          </p>
+          <p>
+            <a
+              data-bs-toggle="modal"
+              data-bs-target="#video1"
+              href="#"
+              rel="noopener"
+              target="_blank"
+              >Questão 01 - Nível 01 - OMIF 2021 (vídeo)</a
+            >
+          </p>
+          <p>
+            <a
+              data-bs-toggle="modal"
+              data-bs-target="#video2"
+              href="#"
+              rel="noopener"
+              target="_blank"
+              >Questão 02 - Nível 01 - OMIF 2021 (vídeo)</a
+            >
+          </p>
+          <p>
+            <a
+              data-bs-toggle="modal"
+              data-bs-target="#video3"
+              href="#"
+              rel="noopener"
+              target="_blank"
+              >Questão 03 - Nível 01 - OMIF 2021 (vídeo)</a
+            >
+          </p>
+          <p>
+            <a
+              data-bs-toggle="modal"
+              data-bs-target="#video4"
+              href="#"
+              rel="noopener"
+              target="_blank"
+              >Questão 04 - Nível 01 - OMIF 2021 (vídeo)</a
+            >
+          </p>
+          <p>
+            <a
+              data-bs-toggle="modal"
+              data-bs-target="#video5"
+              href="#"
+              rel="noopener"
+              target="_blank"
+              >Questão 05 - Nível 01 - OMIF 2021 (vídeo)</a
+            >
+          </p>
+          <p>
+            <a
+              data-bs-toggle="modal"
+              data-bs-target="#video6"
+              href="#"
+              rel="noopener"
+              target="_blank"
+              >Questão 06 - Nível 01 - OMIF 2021 (vídeo)</a
+            >
+          </p>
+          <p>
+            <a
+              data-bs-toggle="modal"
+              data-bs-target="#video7"
+              href="#"
+              rel="noopener"
+              target="_blank"
+              >Questão 07 - Nível 01 - OMIF 2021 (vídeo)</a
+            >
           </p>
           <br />
 
@@ -268,12 +338,6 @@
               >Prova 1ª Fase OMIF 2019</a
             >
           </p>
-          <!-- <div class="ratio ratio-16x9 mb-2">
-            <iframe
-              class="border shadow-sm"
-              src="pdf/prova_omif_2019_1fase.pdf"
-            ></iframe>
-          </div> -->
           <p>
             <a href="pdf/OMIF-2019-Gabarito.pdf" target="_blank" rel="noopener"
               >Gabarito Prova 1ª Fase OMIF 2019</a
@@ -295,12 +359,6 @@
               >Prova 2ª Fase OMIF 2019</a
             >
           </p>
-          <!-- <div class="ratio ratio-16x9 mb-2">
-            <iframe
-              class="border shadow-sm"
-              src="pdf/Caderno de Questões - 2ª Fase - OMIF - 2019 - versão Final.pdf"
-            ></iframe>
-          </div> -->
           <p>
             <a
               href="pdf/Resolução - 2ª Fase - OMIF - 2019.pdf"
@@ -332,12 +390,6 @@
               >Prova 1ª Fase OMIF 2018</a
             >
           </p>
-          <!-- <div class="ratio ratio-16x9 mb-2">
-            <iframe
-              class="border shadow-sm"
-              src="pdf/primeira_fase_2018.pdf"
-            ></iframe>
-          </div> -->
           <p>
             <a
               href="pdf/gabarito_primeira_fase_2018.pdf"
@@ -362,12 +414,6 @@
               >Prova 2ª Fase OMIF 2018</a
             >
           </p>
-          <!-- <div class="ratio ratio-16x9 mb-2">
-            <iframe
-              class="border shadow-sm"
-              src="pdf/Caderno de Questões - 2ª Fase - OMIF - 2018.pdf"
-            ></iframe>
-          </div> -->
           <p>
             <a
               href="pdf/Resolução - 2ª Fase - OMIF - 2018.pdf"
@@ -407,11 +453,47 @@
       </section>
     </div>
   </main>
+  <VideoModal
+    :videoUrl="'https://www.youtube.com/embed/N2wcLkFUQNY'"
+    :name="'Questão 01 - Nível 01 - OMIF 2021 - Resolução em Libras'"
+    :idmodal="'video1'"
+  ></VideoModal>
+  <VideoModal
+    :videoUrl="'https://www.youtube.com/embed/7EzX3ZrCAwM'"
+    :name="'Questão 02 - Nível 01 - OMIF 2021 - Resolução em Libras'"
+    :idmodal="'video2'"
+  ></VideoModal>
+  <VideoModal
+    :videoUrl="'https://www.youtube.com/embed/yAAQAP3n_vA'"
+    :name="'Questão 03 - Nível 01 - OMIF 2021 - Resolução em Libras'"
+    :idmodal="'video3'"
+  ></VideoModal>
+  <VideoModal
+    :videoUrl="'https://www.youtube.com/embed/7S5whwNsHSs'"
+    :name="'Questão 04 - Nível 01 - OMIF 2021 - Resolução em Libras'"
+    :idmodal="'video4'"
+  ></VideoModal>
+  <VideoModal
+    :videoUrl="'https://www.youtube.com/embed/w5OPrdkQ-sY'"
+    :name="'Questão 05 - Nível 01 - OMIF 2021 - Resolução em Libras'"
+    :idmodal="'video5'"
+  ></VideoModal>
+  <VideoModal
+    :videoUrl="'https://www.youtube.com/embed/cI581MwvUEo'"
+    :name="'Questão 06 - Nível 01 - OMIF 2021 - Resolução em Libras'"
+    :idmodal="'video6'"
+  ></VideoModal>
+  <VideoModal
+    :videoUrl="'https://www.youtube.com/embed/cnd0NJ8XejQ'"
+    :name="'Questão 07 - Nível 01 - OMIF 2021 - Resolução em Libras'"
+    :idmodal="'video7'"
+  ></VideoModal>
 </template>
 
 
 <script>
 import Games from "../components/Games.vue";
+import VideoModal from "../components/VideoModal.vue";
 export default {
   name: "Estudos",
   data() {
@@ -421,6 +503,7 @@ export default {
   },
   components: {
     Games,
+    VideoModal,
   },
 };
 </script>

@@ -65,7 +65,7 @@
             <h4 style="text-shadow: 2px 2px #000">
               Utilize nossos
               <router-link to="estudo">Materiais de Estudo</router-link> para
-              fazer simulados e desafios para se preparar para a OMIF 2021
+              fazer simulados e desafios para se preparar para a OMIF 2022
             </h4>
           </div>
         </div>
