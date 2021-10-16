@@ -18,7 +18,55 @@
           <h1 class="card-title text-center mb-4">
             Área de Imprensa - OMIF 2021:
           </h1>
+          <h1 class="text-center">2ª Fase OMIF 2021:</h1>
+          <h4 class="mb-4">
+            Clique neste link para realizar inscrição no evento:
+            <a href="https://www.even3.com.br/omif2021/" target="_blank"
+              >https://www.even3.com.br/omif2021/</a
+            >
+          </h4>
           <div class="w-100 text-center">
+            <figure class="figure cartaz" style="max-width: 600px">
+              <a class="text-center" href="img/2fase1.jpeg" target="_blank"
+                ><img
+                  class="figure-img img-fluid shadow-sm border rounded"
+                  src="img/2fase1.jpeg"
+                  alt="Calendário OMIF 2021"
+              /></a>
+            </figure>
+            <figure class="figure cartaz" style="max-width: 600px">
+              <a class="text-center" href="img/2fase2.jpeg" target="_blank"
+                ><img
+                  class="figure-img img-fluid shadow-sm border rounded"
+                  src="img/2fase2.jpeg"
+                  alt="Calendário OMIF 2021"
+              /></a>
+            </figure>
+            <figure class="figure cartaz" style="max-width: 600px">
+              <a class="text-center" href="img/2fase3.jpeg" target="_blank"
+                ><img
+                  class="figure-img img-fluid shadow-sm border rounded"
+                  src="img/2fase3.jpeg"
+                  alt="Calendário OMIF 2021"
+              /></a>
+            </figure>
+            <figure class="figure cartaz" style="max-width: 600px">
+              <a class="text-center" href="img/2fase4.jpeg" target="_blank"
+                ><img
+                  class="figure-img img-fluid shadow-sm border rounded"
+                  src="img/2fase4.jpeg"
+                  alt="Calendário OMIF 2021"
+              /></a>
+            </figure>
+            <figure class="figure cartaz" style="max-width: 600px">
+              <a class="text-center" href="img/2fase5.jpeg" target="_blank"
+                ><img
+                  class="figure-img img-fluid shadow-sm border rounded"
+                  src="img/2fase5.jpeg"
+                  alt="Calendário OMIF 2021"
+              /></a>
+            </figure>
+            <hr />
             <div class="ratio ratio-16x9 mb-2">
               <iframe
                 src="https://www.youtube.com/embed/MQUfHXDp12s"

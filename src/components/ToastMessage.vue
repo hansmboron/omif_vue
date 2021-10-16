@@ -14,9 +14,7 @@
         class="rounded bg-light me-2"
         alt="..."
       />
-      <strong class="me-auto text-dark"
-        >Live 30/08 19h(Definir Lembrete)</strong
-      >
+      <strong class="me-auto text-dark">2ª Fase OMIF 2021 (22/10/2021)</strong>
       <!--        <small class="text-muted">11 mins ago</small>-->
       <button
         style="color: white"
@@ -26,14 +24,17 @@
         aria-label="Close"
       ></button>
     </div>
-    <div class="toast-body">
-      <a href="https://www.youtube.com/watch?v=MQUfHXDp12s" target="_blank"
-        ><img
-          src="img/live_30_08.jpeg"
-          alt="Live OMIF 2021 - Como será a OMIF em 2021?"
-          height="320"
-          width="320"
-      /></a>
+    <div class="toast-body fw-bold">
+      <p class="mb-4">
+        Clique neste link para realizar inscrição no evento 2ª Fase OMIF 2021:
+        <a href="https://www.even3.com.br/omif2021/" target="_blank"
+          >https://www.even3.com.br/omif2021/</a
+        >
+      </p>
+      <p>
+        Confira o calendário completo
+        <router-link to="/omif2021">aqui (área de Imprensa 2021)</router-link>
+      </p>
     </div>
   </div>
 </template>

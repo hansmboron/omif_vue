@@ -15,6 +15,24 @@
           <div class="card-body text-justify mb-4">
             <h1 class="card-title text-center mb-3">OMIF 2021</h1>
 
+            <p class="text-center fw-bold">
+              O evento da 2ª fase da OMIF será on-line e realizado nos dias 22,
+              23 e 24 de outubro de 2021.<br />
+              Confira a
+              <router-link to="/omif2021">programação completa</router-link
+              >.<br />
+              Inscrições:
+              <a href="https://www.even3.com.br/omif2021/" target="_blank"
+                >https://www.even3.com.br/omif2021/</a
+              >
+            </p>
+            <div class="ratio ratio-16x9 mb-4">
+              <iframe
+                class="border shadow-sm"
+                src="pdf/programacao_omif_2021.pdf"
+              ></iframe>
+            </div>
+
             <h4 class="text-center">Confira o gabarito da OMIF 2021!!!</h4>
             <a
               href="pdf/Prova_-_1_Fase_-_OMIF_2021_-_versão Final_-_Com_as_Respostas.pdf"
@@ -240,7 +258,7 @@
     </div>
   </main>
   <ImageModal />
-  <!-- <ToastMessage /> -->
+  <ToastMessage />
 </template>
 
 <script>

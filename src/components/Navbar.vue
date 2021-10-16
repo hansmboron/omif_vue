@@ -225,7 +225,7 @@
               <a
                 class="nav-link btn-outline-danger"
                 style="background-color: crimson"
-                href="https://omif.muz.ifsuldeminas.edu.br/areaRestrita/"
+                href="https://omif.com.br/areaRestrita/"
                 target="_blank"
                 title="Acessar Área Restrita"
               >
